@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+         
+<suite name="onlineshopping">
+
+	<listeners>
+		<listener class-name="com.onlineshopping.utilities.Reporting" />
+	</listeners>
+
+	<test name="onlineshopping_LoginTest">
+		<classes>
+		
+			<class name="com.onlineshopping.testcases.Onlineshopping_LoginTest" />
+	 		<class name="com.onlineshopping.testcases.Onlineshopping_WomensPageTest" /> 
+			
+	</classes>
+
+	</test>
+
+</suite>

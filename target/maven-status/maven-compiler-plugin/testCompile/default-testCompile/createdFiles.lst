@@ -1,0 +1,14 @@
+com\onlineshopping\utilities\SendEmailReport$1.class
+com\onlineshopping\testcases\Onlineshopping_WomensTopsPageTest.class
+com\onlineshopping\utilities\ReadConfig.class
+com\onlineshopping\PageObjects\WomensTopsPage.class
+com\onlineshopping\testcases\Onlineshopping_WomensPageTest.class
+com\onlineshopping\PageObjects\Test.class
+com\onlineshopping\utilities\SendEmailReport.class
+com\onlineshopping\utilities\Read_testData_XML_util.class
+com\onlineshopping\PageObjects\WomensPage.class
+com\onlineshopping\testcases\BaseClass.class
+com\onlineshopping\PageObjects\LoginPage.class
+com\onlineshopping\testData\PageTestConstants.class
+com\onlineshopping\testcases\Onlineshopping_LoginTest.class
+com\onlineshopping\utilities\Reporting.class
